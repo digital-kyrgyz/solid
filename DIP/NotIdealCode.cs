@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DIP
+namespace DIP_NotIdealCode
 {
     internal class MailService
     {
